@@ -1,2 +1,1 @@
-This is only for educational purposes.
-BUG BOUNTY!!!
+🚀Welcome to the liuton multi-tool for bug bounty program. this tool is for educational purposes. 
